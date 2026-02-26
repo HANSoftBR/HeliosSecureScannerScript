@@ -1,52 +1,93 @@
 # Política de Privacidade – Helios Secure Scanner Script
 
-## 1. Informações Coletadas
-O aplicativo **Helios Secure Scanner Script** não coleta, armazena, compartilha ou transmite qualquer dado pessoal ou informação sensível do usuário.  
-Todas as notas, senhas e arquivos permanecem armazenados exclusivamente no dispositivo do usuário, em **formato criptografado**.
+**Última atualização:** 2026
 
 ---
 
-## 2. Processamento e Segurança Local
-Todo o processamento de dados ocorre **localmente** no dispositivo do usuário.  
-Nenhuma informação é enviada a servidores externos.  
-O aplicativo **não utiliza serviços de rastreamento**, publicidade, analytics ou redes de terceiros.
+## 1. Informações Coletadas
+
+O aplicativo **Helios Secure Scanner Script** não coleta, armazena, compartilha ou transmite dados pessoais dos usuários.
+
+O aplicativo funciona localmente no dispositivo do usuário e utiliza apenas arquivos e recursos necessários para o funcionamento do software.
+
+Nenhuma informação pessoal do usuário é coletada.
+
+---
+
+## 2. Processamento de Dados
+
+Todo o processamento realizado pelo aplicativo ocorre localmente no dispositivo do usuário.
+
+O aplicativo:
+
+* não envia dados para servidores externos;
+* não utiliza serviços de análise (analytics);
+* não utiliza rastreamento;
+* não exibe publicidade;
+* não coleta informações pessoais do usuário.
 
 ---
 
 ## 3. Permissões do Sistema
-O aplicativo pode solicitar permissões locais do sistema operacional (como acesso ao sistema de arquivos) **apenas** para salvar ou carregar notas.  
-Essas permissões **nunca** são utilizadas para coletar dados pessoais.
+
+O aplicativo pode acessar o sistema de arquivos do dispositivo apenas para:
+
+* ler arquivos necessários para o funcionamento do software;
+* analisar scripts ou arquivos fornecidos pelo próprio usuário;
+* salvar configurações do aplicativo;
+* permitir que o usuário exporte relatórios ou resultados de análise.
+
+Essas permissões são utilizadas exclusivamente para o funcionamento do aplicativo.
 
 ---
 
 ## 4. Privacidade do Usuário
-O uso do aplicativo é **totalmente anônimo**.  
-Não é necessário criar conta, fornecer e-mail, telefone ou qualquer forma de identificação pessoal.
+
+O uso do aplicativo é totalmente privado e não exige identificação do usuário.
+
+Não é necessário:
+
+* criar conta;
+* fornecer e-mail;
+* informar telefone;
+* inserir qualquer dado pessoal.
 
 ---
 
-## 5. Criptografia e Proteção
-Embora nos esforcemos para oferecer **segurança máxima**, nenhum sistema pode garantir proteção absoluta.  
-O usuário é responsável por manter suas **chaves, senhas e arquivos seguros**.
+## 5. Uso do Aplicativo
+
+O **Helios Secure Scanner Script** é um software de análise e verificação de scripts e arquivos.
+
+O aplicativo tem como objetivo auxiliar na identificação de possíveis riscos ou problemas em scripts analisados.
+
+O software não garante detecção completa de todas as ameaças ou vulnerabilidades.
 
 ---
 
 ## 6. Isenção de Responsabilidade
-O **Helios Secure Scanner Script** é fornecido **gratuitamente** e "no estado em que se encontra" (*“as is”*), sem garantias expressas ou implícitas.  
 
-O usuário é responsável por manter **cópias seguras** de suas notas, senhas e arquivos criptografados.  
-O desenvolvedor **não se responsabiliza** por quaisquer danos, perdas de dados ou outros problemas decorrentes do uso deste software.
+O software é fornecido **"no estado em que se encontra" (as is)**, sem garantias de qualquer tipo.
+
+O desenvolvedor não se responsabiliza por:
+
+* danos causados pelo uso ou interpretação dos resultados gerados pelo software;
+* decisões tomadas com base nas análises realizadas pelo aplicativo;
+* uso inadequado do software.
 
 ---
 
 ## 7. Alterações nesta Política
-Esta **Política de Privacidade** pode ser atualizada para refletir melhorias técnicas, requisitos legais ou mudanças nas funcionalidades dos aplicativos.  
-A versão mais recente estará sempre disponível no **repositório oficial** dos projetos.
+
+Esta Política de Privacidade pode ser atualizada a qualquer momento para refletir melhorias no software ou mudanças legais.
+
+A versão mais recente estará sempre disponível na página oficial do aplicativo ou repositório oficial.
 
 ---
 
 ## 8. Contato
-Em caso de dúvidas sobre esta Política de Privacidade ou sobre os aplicativos, entre em contato:
 
-**HANSoft**  
-E-mail: devhansoft@gmail.com
+Em caso de dúvidas sobre esta Política de Privacidade, entre em contato:
+
+**HANSoft**
+E-mail: [devhansoft@gmail.com](mailto:devhansoft@gmail.com)
+
