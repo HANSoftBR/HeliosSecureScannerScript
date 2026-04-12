@@ -1,4 +1,6 @@
 # LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Nome do Software:** Helios Secure Scanner Script  
 **Autor:** HANSoft (Desenvolvedor independente)  
