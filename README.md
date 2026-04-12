@@ -1,4 +1,9 @@
 # HeliosSecureScannerScript
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
+> **Status:** Descontinuado  
+> Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Versão:** 1.0.0  
 📧 **E-mail:** devhansoft@gmail.com  
