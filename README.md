@@ -5,7 +5,7 @@ Este projeto não está mais em desenvolvimento ou manutenção ativa.
 > **Status:** Descontinuado  
 > Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
-**Versão:** 1.0.0  
+**Versão Atual:** 3.2.0  
 📧 **E-mail:** devhansoft@gmail.com  
 📄 **Licença:** Licença Proprietária — HANSoft
 
@@ -87,14 +87,46 @@ Consulte o arquivo **LICENSE.md** para os termos completos da licença.
 
 # Aviso Legal
 
-O **Helios Secure Scanner Script** é fornecido **gratuitamente** e **"no estado em que se encontra"** (*"AS IS"*), sem garantias de qualquer tipo.
+O **Helios Secure Scanner Script** é fornecido **gratuitamente**, **"no estado em que se encontra"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas.
 
-O desenvolvedor **não se responsabiliza por danos, perdas de dados ou quaisquer outros problemas decorrentes do uso deste software**.
+Este software tem finalidade **auxiliar na análise local de arquivos e scripts potencialmente maliciosos**, incluindo, entre outros, arquivos em lote, scripts PowerShell, scripts Visual Basic, executáveis e atalhos do Windows.
 
-Este software tem finalidade auxiliar na análise local de arquivos e scripts potencialmente maliciosos, incluindo, entre outros, arquivos em lote, scripts PowerShell, scripts Visual Basic, executáveis e atalhos do Windows.
-Os resultados, alertas, classificações, indicadores e sinais emitidos pelo software possuem caráter informativo, auxiliar e indicativo, não constituindo laudo pericial, parecer técnico conclusivo, garantia de detecção integral ou certificação de ausência de ameaça.
-A HANSoft não garante que o software identificará todas as ameaças, variantes, técnicas de ofuscação, cargas maliciosas, comportamentos evasivos ou arquivos comprometidos existentes ou futuros.
-O usuário reconhece que a análise de segurança depende de múltiplos fatores externos, incluindo atualização de técnicas maliciosas, configuração do ambiente, integridade do sistema operacional, permissões locais, antivírus, comportamento do arquivo analisado e limitações inerentes à análise automatizada.
+**O desenvolvedor não garante:**
+
+- detecção integral de todas as ameaças, variantes, técnicas de ofuscação, cargas maliciosas, comportamentos evasivos ou arquivos comprometidos, existentes ou futuros;
+- ausência total de falhas, erros, bugs ou vulnerabilidades;
+- funcionamento ininterrupto;
+- que os resultados emitidos pelo software constituam laudo pericial, parecer técnico conclusivo ou certificação de ausência de ameaça;
+- que a análise automatizada seja suficiente, por si só, para tomada de decisão técnica, forense ou operacional.
+
+Os resultados, alertas, classificações, indicadores e sinais emitidos pelo software possuem caráter **informativo, auxiliar e indicativo**.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+O usuário reconhece ainda que a análise de segurança depende de múltiplos fatores externos, incluindo:
+
+- atualização de técnicas maliciosas;
+- configuração do ambiente;
+- integridade do sistema operacional;
+- permissões locais;
+- antivírus e ferramentas de terceiros;
+- comportamento do arquivo analisado;
+- limitações inerentes à análise automatizada.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- interpretação incorreta dos resultados;
+- decisões tomadas com base exclusiva nos alertas ou classificações emitidos;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, engenharia social, erro humano, interferência de softwares de terceiros ou outros fatores externos ao funcionamento normal do programa.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de detecção, funcionamento contínuo ou ausência total de falhas em todos os cenários.
 
 **A decisão de executar, remover, preservar, compartilhar, investigar ou confiar em determinado arquivo permanece sob responsabilidade do usuário.**
 
