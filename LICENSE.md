@@ -39,13 +39,53 @@ O uso do software não transfere ao usuário qualquer direito de propriedade int
 
 ---
 
-## 4. ISENÇÃO DE GARANTIA
+## 4. ISENÇÃO DE GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA"**, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando, às garantias de comercialização, adequação a uma finalidade específica ou não violação de direitos de terceiros.
+O **Helios Secure Scanner Script** é fornecido **"NO ESTADO EM QUE SE ENCONTRA"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação:
 
-O **Helios Secure Scanner Script** é uma ferramenta de análise de segurança destinada a auxiliar na identificação de scripts potencialmente suspeitos. Ele não garante a detecção completa de todas as ameaças existentes.
+- garantias de comercialização;
+- adequação a uma finalidade específica;
+- funcionamento ininterrupto;
+- ausência de falhas, erros, bugs ou vulnerabilidades;
+- não violação de direitos de terceiros.
 
-Em nenhuma hipótese a **HANSoft** será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou incapacidade de uso deste software.
+O **Helios Secure Scanner Script** é uma ferramenta de análise de segurança destinada a auxiliar na identificação local de arquivos e scripts potencialmente suspeitos, incluindo, entre outros, arquivos em lote, scripts PowerShell, scripts Visual Basic, executáveis e atalhos do Windows.
+
+Embora o software utilize mecanismos de análise e assinaturas de detecção, a **HANSoft** não garante:
+
+- detecção completa de todas as ameaças, variantes, técnicas de ofuscação, cargas maliciosas, comportamentos evasivos ou arquivos comprometidos, existentes ou futuros;
+- que os resultados emitidos pelo software constituam laudo pericial, parecer técnico conclusivo ou certificação de ausência de ameaça;
+- que a análise automatizada seja suficiente, por si só, para tomada de decisão técnica, forense, operacional ou jurídica;
+- ausência total de comportamentos inesperados durante o uso.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+O usuário reconhece ainda que a análise de segurança depende de múltiplos fatores externos, incluindo:
+
+- atualização de técnicas maliciosas;
+- configuração do ambiente;
+- integridade do sistema operacional;
+- permissões locais;
+- antivírus e ferramentas de terceiros;
+- comportamento do arquivo analisado;
+- limitações inerentes à análise automatizada.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- interpretação incorreta dos resultados;
+- decisões tomadas com base exclusiva nos alertas ou classificações emitidos;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, engenharia social, erro humano, interferência de softwares de terceiros ou outros fatores externos ao funcionamento normal do programa.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de detecção, funcionamento contínuo ou ausência total de falhas em todos os cenários.
+
+**A decisão de executar, remover, preservar, compartilhar, investigar ou confiar em determinado arquivo permanece sob responsabilidade do usuário.**
 
 ---
 
