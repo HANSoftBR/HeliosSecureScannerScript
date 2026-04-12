@@ -91,6 +91,13 @@ O **Helios Secure Scanner Script** é fornecido **gratuitamente** e **"no estado
 
 O desenvolvedor **não se responsabiliza por danos, perdas de dados ou quaisquer outros problemas decorrentes do uso deste software**.
 
+Este software tem finalidade auxiliar na análise local de arquivos e scripts potencialmente maliciosos, incluindo, entre outros, arquivos em lote, scripts PowerShell, scripts Visual Basic, executáveis e atalhos do Windows.
+Os resultados, alertas, classificações, indicadores e sinais emitidos pelo software possuem caráter informativo, auxiliar e indicativo, não constituindo laudo pericial, parecer técnico conclusivo, garantia de detecção integral ou certificação de ausência de ameaça.
+A HANSoft não garante que o software identificará todas as ameaças, variantes, técnicas de ofuscação, cargas maliciosas, comportamentos evasivos ou arquivos comprometidos existentes ou futuros.
+O usuário reconhece que a análise de segurança depende de múltiplos fatores externos, incluindo atualização de técnicas maliciosas, configuração do ambiente, integridade do sistema operacional, permissões locais, antivírus, comportamento do arquivo analisado e limitações inerentes à análise automatizada.
+
+**A decisão de executar, remover, preservar, compartilhar, investigar ou confiar em determinado arquivo permanece sob responsabilidade do usuário.**
+
 ---
 
 # Contato e Suporte
